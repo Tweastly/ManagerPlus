@@ -1,4 +1,4 @@
-# Welcome to ManagerPlus
+# ManagerPlus
 
 
 
@@ -6,9 +6,11 @@
 
 **ManagerPlus** is a web-based tool that lets server owners control, monitor, and configure their servers with ease. It offers features like server control, plugin management, player monitoring, and real-time performance tracking.
 
+> [Demo Here !](https://demo.manager-plus.tweastly.xyz)
+
 ## Installation
 
-> Please refer to the [ManagerPlus Installation](https://github.com/SparkAudio/Spark-TTS/issues/5) for detailed installation.
+> Please refer to the [ManagerPlus Installation](https://github.com/Tweastly/ManagerPlus/wiki/Installation) for detailed installation.
 
 __Web Panel__
 
